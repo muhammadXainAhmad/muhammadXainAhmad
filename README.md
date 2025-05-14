@@ -7,7 +7,7 @@ Aspiring software developer, soon to graduate with a BS in Computer Science. Pas
 ## About Me 🚀
 - 🔭 Currently focused on building cross-platform mobile apps and exploring computer vision applications.
 - 📱 Built several apps from scratch including an **Expense Tracker**, **Notes App**, and **To-Do List**, using **Provider** for state management along with **SharedPreferences** and **Sqflite** for local storage.
--  🤖 Final Year Project: An **AI-powered smart shopping cart** using a custom-trained **YOLOv8 object detection model**. Handling:
+- 🤖 Final Year Project: An **AI-powered smart shopping cart** using a custom-trained **YOLOv8 object detection model**. Handling:
   - Dataset creation, annotation, and segmentation  
   - Model training and evaluation on Google Colab  
   - Real-time object detection to enhance the retail shopping experience
