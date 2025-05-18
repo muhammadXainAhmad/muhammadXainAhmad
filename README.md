@@ -20,6 +20,14 @@ Aspiring software developer, soon to graduate with a BS in Computer Science. Pas
 - **Development Tools**: VS Code, Android Studio, Visual Studio, Google Colab
 - **Core Areas**: State Management, Local Storage, Machine Learning, Computer Vision, Data Structures & Algorithms
 
+## GitHub Activity & Stats 📊
+
+![Xain's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadXainAhmad&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadXainAhmad&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadXainAhmad&theme=radical)
+
 ## Let’s Connect! 📫
 - 📧 Email: [xain2002@gmail.com](mailto:xain2002@gmail.com)
 
