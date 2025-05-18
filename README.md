@@ -16,7 +16,7 @@ Aspiring software developer, soon to graduate with a BS in Computer Science. Pas
 
 ## Technologies & Tools 🔧
 - **Languages**: Dart, Python, SQL, C++
-- **Frameworks & Libraries**: Flutter, Provider, SQLite, SharedPreferences, YOLOv8
+- **Frameworks & Libraries**: Flutter, Provider, Sqflite, YOLOv8
 - **Development Tools**: VS Code, Android Studio, Visual Studio, Google Colab
 - **Core Areas**: State Management, Local Storage, Machine Learning, Computer Vision, Data Structures & Algorithms
 
