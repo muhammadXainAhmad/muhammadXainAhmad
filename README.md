@@ -1,38 +1,27 @@
-<h2 align="center">Hey there 👋, I'm Xain!</h2>
+<h2 align="center">Hey there 👋, I'm Xain</h2>
 
 <p align="center">
-Aspiring software developer, soon to graduate with a BS in Computer Science. Passionate about building smart, cross-platform applications and exploring the potential of AI, machine learning, and computer vision to solve real-world problems.
+Computer Science graduate focused on <b>Flutter & Firebase</b>.  
+I build cross-platform apps with clean UI, robust state management, and scalable backend integration.
 </p>
 
-## About Me 🚀
-- 🔭 Currently focused on building cross-platform mobile apps and exploring computer vision applications.
-- 📱 Built several apps from scratch including an **Expense Tracker**, **Notes App**, and **To-Do List**, using **Provider** for state management along with **SharedPreferences** and **Sqflite** for local storage.
-- 🤖 Final Year Project: An **AI-powered smart shopping cart** using a custom-trained **YOLOv8 object detection model**. Handling:
-  - Dataset creation, annotation, and segmentation  
-  - Model training and evaluation on Google Colab  
-  - Real-time object detection to enhance the retail shopping experience
-- 🌱 Currently learning **Firebase integration**, **clean architecture**, and advanced **state management** for full-stack app development.
-- 💼 Actively seeking full-time roles or internships in **Flutter development**, **machine learning**, or **software engineering**.
-
-## Technologies & Tools 🔧
-- **Languages**: Dart, Python, SQL, C++
-- **Frameworks & Libraries**: Flutter, Provider, Sqflite, YOLOv8
-- **Development Tools**: VS Code, Android Studio, Visual Studio, Google Colab
-- **Core Areas**: State Management, Local Storage, Machine Learning, Computer Vision, Data Structures & Algorithms
+## Featured Projects 🚀
+- 📸 [Instagram Clone App](https://github.com/muhammadXainAhmad/instagram-clone) – Instagram-like app with posts, likes, comments, follow/unfollow and profile management (Flutter + Firebase)  
+- ✍️ [BlogD Blogging App](https://github.com/muhammadXainAhmad/blogd-app) – Minimal blogging app with OTP login, blog CRUD, and real-time Firestore updates  
+- 💰 [Expense Tracker](https://github.com/muhammadXainAhmad/expense-tracker) – Expense tracker with SQLite persistence, Provider state management, and category-based analytics  
+## Tech Stack ⚡
+- **Languages**: Dart, SQL, Python, C++  
+- **Frameworks & Libraries**: Flutter, Provider, Sqflite, Firebase (Auth, Firestore, Storage)  
+- **Tools**: VS Code, Android Studio, Git  
+- **Focus Areas**: State Management, Firebase Integration, Local & Cloud Storage, OOP & Data Structures  
 
 ## GitHub Activity & Stats 📊
-
-![Xain's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadXainAhmad&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadXainAhmad&layout=compact&theme=radical)
-
+![Xain's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadXainAhmad&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadXainAhmad&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadXainAhmad&theme=radical)
 
-## Let’s Connect! 📫
-- 📧 Email: [xain2002@gmail.com](mailto:xain2002@gmail.com)
-
-> “The best way to predict the future is to create it.” – Abraham Lincoln
+## Let’s Connect 📫
+- 📧 [xain2002@gmail.com](mailto:xain2002@gmail.com)  
+- 🌐 [GitHub Projects](https://github.com/muhammadXainAhmad?tab=repositories)  
 
 ---
-
-Feel free to explore my repos or reach out if you're working on cool Flutter or ML projects — I'm always open to collaboration and learning!
